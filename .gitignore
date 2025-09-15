@@ -1,0 +1,15 @@
+# Ignore build/output directories
+model/results/
+ckpt/
+log/
+b2d_train/
+
+# Temporary/intermediate files
+__pycache__/
+*.pyc
+*.log
+*.ckpt
+
+# OS & editor files
+.DS_Store
+Thumbs.db
