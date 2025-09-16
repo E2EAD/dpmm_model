@@ -53,6 +53,9 @@ pip install seaborn
 
 --bnp
 
+--text_enco
+---scen_skill_desc_list (a list of 44 scenarios, each element contains scenario name, relative driving skill (ability), text description and encoded description.)
+
 ```
 
 # Instruction
